@@ -1,0 +1,1 @@
+addCard("#row", rentingAssets)
